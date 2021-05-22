@@ -70,11 +70,8 @@ li {
     background-repeat: no-repeat;
 }
 
-h1 {
+.header {
     font-family: 'KOActivistaBold';
     font-weight: bold;
     font-style: normal;
-    color: goldenrod;
 }
-
-

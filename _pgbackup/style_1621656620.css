@@ -7,7 +7,7 @@
 body {
     width: 90%;
     margin: 0 auto;
-    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20200103/pngtree-beautiful-nature-landscape-cartoon-illustration-with-flowers-green-grass-and-blue-image_326562.jpg");
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/61PWi2WFV3L._AC_SL1468_.jpg");
 }
 
 #content {
@@ -64,17 +64,8 @@ li {
 
 #feature {
     background-color: #8CC63E;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRglx0AV1EocMLxtuqp2OeVmr57TrM3B9wKug&usqp=CAU");
-    background-size: 150px 150px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4n3nKkPHxPHiQcoJfbBT4bmWX05iZJWnmyg&usqp=CAU");
+    background-size: 200px 200px;
     background-position: right;
     background-repeat: no-repeat;
 }
-
-h1 {
-    font-family: 'KOActivistaBold';
-    font-weight: bold;
-    font-style: normal;
-    color: goldenrod;
-}
-
-
