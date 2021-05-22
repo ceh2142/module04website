@@ -64,8 +64,8 @@ li {
 
 #feature {
     background-color: #8CC63E;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4n3nKkPHxPHiQcoJfbBT4bmWX05iZJWnmyg&usqp=CAU");
-    background-size: 200px 200px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzfJ3dv-bMw3dYVRz5bn5IGQlVv0_AUHDHw&usqp=CAU");
+    background-size: contain;
     background-position: right;
     background-repeat: no-repeat;
 }
